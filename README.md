@@ -1,6 +1,6 @@
 This repository contains questions on the main topics of a Linux engineer and/or DevOps engineer.
 
-## Основные темы:
+## Base themes:
 1. [Linux](questions/linux.md)
 2. [Network](questions/networks.md)
 3. [Databases](questions/databases.md)
